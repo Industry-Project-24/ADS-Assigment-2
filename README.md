@@ -10,11 +10,11 @@ This repository is created for Applied Data Science (MAST30034_2022_SM2) Group 2
 ## Team members
 | Name | Contact | Student Id |
 | ---- | ---- | ---- |
-| Runyu Yang |  | |
-| Jianzhi Gao | jianzhig@student.unimelb.edu | 1166514 |
+| Runyu Yang | runyuy@student.unimelb.edu.au | 1118665|
+| Jianzhi Gao | jianzhig@student.unimelb.edu.au | 1166514 |
 | Jinyu Cai | jinyuc1@student.unimelb.edu.au | 1166389 |
-| Ziwen Xu |  | 1166426 |
-| Jiayi Xu |  | 1165986 |
+| Ziwen Xu | ziwenx2@student.unimelb.edu.au | 1166426 |
+| Jiayi Xu | jixu5@student.unimelb.edu.au  | 1165986 |
 
 
 ---
